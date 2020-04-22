@@ -8,6 +8,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         //Activity 의 UI 를 R.layout.activity_main 으로 지정한다.
+        // git test1
+
         setContentView(R.layout.activity_main)
     }
 }
